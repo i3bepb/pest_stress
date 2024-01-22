@@ -1,0 +1,14 @@
+{
+    "name": "i3bepb/pest_stress",
+    "type": "project",
+    "require-dev": {
+        "pestphp/pest": "^2.32",
+        "pestphp/pest-plugin-stressless": "^2.2"
+    },
+    "license": "MIT",
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    }
+}
